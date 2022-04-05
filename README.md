@@ -1,1 +1,1 @@
-# goodtech.github.io
+# goodtech
